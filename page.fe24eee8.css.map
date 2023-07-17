@@ -1,0 +1,1 @@
+{"version":3,"sources":["page.css"],"names":[],"mappings":"AAAA,YACE,6BAAiC,CACjC,eAAgB,CAChB,aACF","file":"page.fe24eee8.css","sourceRoot":"../src","sourcesContent":[".page__body {\n  font-family: \"Avenir\", sans-serif;\n  font-weight: 300;\n  color: #3d4e61;\n}\n"]}
